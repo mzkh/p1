@@ -51,7 +51,7 @@ label{
 }
 .header ul li {
     display: inline-block;
-    width: 24.5%;
+    width: 45%;
     text-align: center;
     color: #fff;
     font-size: 13px;
@@ -5547,6 +5547,10 @@ p.w3ls_para {
 	}
 	#PPMiniCart {
       left: 68% !important;
+    }
+
+    .mz-social {
+        margin-top: 50px;
     }
 }
 /*-- //responsive media queries --*/
